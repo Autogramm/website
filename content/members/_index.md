@@ -6,8 +6,9 @@ src: members/_index.md
 
 Le projet Autogramm est constitué de quatre partenaires principaux:
 
- * MoDyCo 
- * Lacito
- * LISN
- * LORIA
+  
+ * [MoDyCo](https://modyco.fr/)
+ * [Lacito](https://www.lacito.cnrs.fr/)
+ * [Lisn](https://www.lisn.upsaclay.fr/)
+ * [LORIA](https://www.loria.fr)
 
