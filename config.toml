@@ -1,4 +1,4 @@
-baseURL = "https://surfacesyntacticud.github.io/"
+baseURL = "https://autogramm.github.io/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "SUD"
@@ -18,8 +18,8 @@ pygmentsStyle = "pygments"
 
 [params]
   # Header text, can be markdown
-  project_name = "SUD"
-  project_tagline = "Surface Syntactic Universal Dependencies"
+  project_name = "Autogramm"
+  project_tagline = "Induction de grammaires descriptives à partir de corpus annotés"
 
 
   # Date format for post list and single pages
@@ -58,22 +58,14 @@ pygmentsStyle = "pygments"
 
 [menu]
   [[menu.nav]]
-    name = "Home"
+    name = "Autogramm"
     url = "/"
     weight = 1
   [[menu.nav]]
-    name = "Guidelines"
-    url = "/guidelines/u/"
+    name = "Partenaires"
+    url = "/members/"
     weight = 2
   [[menu.nav]]
-    name = "SUD Corpora"
-    url = "/data/"
+    name = "projet GitHub"
+    url = "https://github.com/autogramm"
     weight = 3
-  [[menu.nav]]
-    name = "Comparison with UD"
-    url = "/conversions"
-    weight = 4
-  [[menu.nav]]
-    name = "GitHub project"
-    url = "https://github.com/surfacesyntacticud"
-    weight = 5
