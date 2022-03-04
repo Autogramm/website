@@ -66,6 +66,14 @@ pygmentsStyle = "pygments"
     url = "/members/"
     weight = 2
   [[menu.nav]]
+    name = "Langues"
+    url = "/languages/"
+    weight = 3
+  [[menu.nav]]
+    name = "Outils"
+    url = "/tools/"
+    weight = 4
+  [[menu.nav]]
     name = "projet GitHub"
     url = "https://github.com/autogramm"
-    weight = 3
+    weight = 5
