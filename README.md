@@ -1,12 +1,12 @@
-# Source code for production of the SUD website
+# Source code for production of the Autogramm website
 
-This repository contains the source code for production of the SUD website: https://surfacesyntacticud.github.io/
+This repository contains the source code for production of the Autogramm website: https://autogramm.github.io/
 
-The SUD website is automatically updated when this repository is modified on github.
+The Autogramm website is automatically updated when this repository is modified on github.
 
-## Modification of the SUD website
+## Modification of the Autogramm website
 
-If you want to contribute to the page, please consult the Wiki pages of the repositories:
+The Autogramm website is managed the same way that the SUD website. You can refer to the corresponding wiki pages for help:
  * for [basic editing](https://github.com/surfacesyntacticud/guidelines/wiki)
  * for [complex editing](https://github.com/surfacesyntacticud/guidelines/wiki/Hugo)
  * [tree stucture of the sources files](https://github.com/surfacesyntacticud/guidelines/wiki/Tree)
