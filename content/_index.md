@@ -27,4 +27,4 @@ Because these grammatical descriptions are induced from a corpus, they contain q
 {{< /rawhtml >}}
 # Contact
 
-TODO
+sylvain arobase kahane.fr
