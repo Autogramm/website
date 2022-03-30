@@ -6,7 +6,7 @@ src: members/_index.md
 
 Le projet Autogramm est constitué de quatre partenaires principaux:
   
- * [MoDyCo](https://modyco.fr/)
+* [MoDyCo](https://modyco.fr/)
   * Sylvain Kahane (responsable)
   * Aude Da Cruz Lima
   * Guillaume Desagulier
@@ -21,7 +21,7 @@ Le projet Autogramm est constitué de quatre partenaires principaux:
   * Qishen Wu (stagiaire M2)
   * Ilham Benayad (administratrice)
  
- * [Lacito](https://www.lacito.cnrs.fr/)
+* [Lacito](https://www.lacito.cnrs.fr/)
   * Sylvain Loiseau (responsable)
   * Isabelle Bril
   * Natalia Cáceres
@@ -32,7 +32,7 @@ Le projet Autogramm est constitué de quatre partenaires principaux:
   * Salomé Chandora (stagiaire M1)
   * Katharine Jiang (stagiaire M1)
  
- * [Lisn](https://www.lisn.upsaclay.fr/)
+* [Lisn](https://www.lisn.upsaclay.fr/)
   * Kim Gerdes (responsable)
   * Gilles Adda
   * Caio Corro
@@ -42,15 +42,15 @@ Le projet Autogramm est constitué de quatre partenaires principaux:
   * Ziqian Peng (stagiaire M2)
   * (stagiaire M2)
  
- * [LORIA](https://www.loria.fr)
+* [LORIA](https://www.loria.fr)
   * Bruno Guillaume (responsable)
   * Guillaume Bonfante
   * Karen Fort
   * Guy Perrier
  
- Autres partenaires
- 
- * [Llacan](https://llacan.cnrs.fr/)
+Autres partenaires
+
+* [Llacan](https://llacan.cnrs.fr/)
   * Bernard Caron (responsable)
   * Dominique Caubet
   * Christian Chanard
@@ -58,8 +58,8 @@ Le projet Autogramm est constitué de quatre partenaires principaux:
   * Paulette Roulon-Doko
   * Martine Vanhove
   * Valentin Vydrine
- 
- * [Ertim](https://er-tim.fr/)
+
+* [Ertim](https://er-tim.fr/)
   * Pierre Magistry (responsable)
   * Damien Nouvel
   * Ilaine Wang
