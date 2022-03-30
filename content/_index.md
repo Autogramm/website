@@ -11,13 +11,15 @@ Autogramm (Induction de grammaires descriptives à partir de corpus annotés) es
 
 # Résumé
 
-The aim of this project is to automate, insofar as possible, the extraction of descriptive grammars and grammatical descriptions from annotated corpora, for the purpose of linguistic and typological studies. We aim for descriptions which
-1. highlight the main properties of the corpus (and by extension the language or variety the corpus represents);
-2. are easily understandable to a linguist;
-3. can be visualized by texts, diagrams or tables, including grammatical databases generally oriented towards comparative and typological studies such as Grambank or Grammaticon (Haspelmath 2020);
-4. and can scale in size.
+Le but de ce projet est d'automatiser, dans la mesure du possible, l'extraction de grammaires descriptives et de descriptions grammaticales à partir de corpus annotés, à des fins d'études linguistiques et typologiques. Nous visons des descriptions qui
+1. mettent en évidence les principales propriétés du corpus (et par extension la langue ou la variété que le corpus représente) ;
+2. sont facilement compréhensibles pour un linguiste ;
+3. peuvent être visualisées par des textes, des diagrammes ou des tableaux, y compris les bases de données grammaticales généralement orientées vers les études comparatives et typologiques ;
+4. et peuvent varier en taille.
 
-Because these grammatical descriptions are induced from a corpus, they contain quantitative information associated with each observation made on that corpus, as well as relevant examples extracted from it.
+Comme ces descriptions grammaticales sont induites à partir d'un corpus, elles contiennent des informations quantitatives associées à chaque observation faite sur ce corpus, ainsi que des exemples pertinents extraits de celui-ci.
+
+Le projet promeut également le développement de treebanks pour des langues sous-dotées, afin d'extraire des grammaires descriptives quantitatives pour ces langues. Le projet utilise le schéma d'annotion [SUD] (https://surfacesyntacticud.github.io/) (Surface-syntactic Universal Dependencies), l'outil de requête [Grew-match] (http://universal.grew.fr/) et l'outil d'annotation [ArboratorGrew] (https://arboratorgrew.elizia.net/).
 
 # Événements 
 
