@@ -19,7 +19,7 @@ Le but de ce projet est d'automatiser, dans la mesure du possible, l'extraction 
 
 Comme ces descriptions grammaticales sont induites à partir d'un corpus, elles contiennent des informations quantitatives associées à chaque observation faite sur ce corpus, ainsi que des exemples pertinents extraits de celui-ci.
 
-Le projet promeut également le développement de treebanks pour des langues sous-dotées, afin d'extraire des grammaires descriptives quantitatives pour ces langues. Le projet utilise le schéma d'annotion [SUD] (https://surfacesyntacticud.github.io/) (Surface-syntactic Universal Dependencies), l'outil de requête [Grew-match] (http://universal.grew.fr/) et l'outil d'annotation [ArboratorGrew] (https://arboratorgrew.elizia.net/).
+Le projet promeut également le développement de treebanks pour des langues sous-dotées, afin d'extraire des grammaires descriptives quantitatives pour ces langues. Le projet utilise le schéma d'annotion [SUD](https://surfacesyntacticud.github.io/) (Surface-syntactic Universal Dependencies), l'outil de requête [Grew-match](http://universal.grew.fr/) et l'outil d'annotation [ArboratorGrew](https://arboratorgrew.elizia.net/).
 
 # Événements 
 
