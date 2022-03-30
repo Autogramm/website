@@ -40,7 +40,7 @@ Le projet Autogramm est constitué de quatre partenaires principaux:
   * Agata Savary
   * François Yvon
   * Ziqian Peng (stagiaire M2)
-  * (stagiaire M2)
+  * Lili Lu (stagiaire M2)
  
 * [LORIA](https://www.loria.fr)
   * Bruno Guillaume (responsable)
