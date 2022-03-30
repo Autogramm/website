@@ -79,4 +79,5 @@ Autres membres
   * Nicolas Mazziotta (U. de Liège)
   * Sophie Prevost (Lattice, Paris)
   * Serge Fleury (Clesthia, Paris 3)
+  * Mohamed Galal (U. de Soha, Egypte)
 
