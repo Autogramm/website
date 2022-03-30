@@ -18,14 +18,14 @@ Les langues listées sont celles qui sont envisagées dans le projet. cette list
  * Bambara (mandingue) : Valentin Vydrine
  * Vietnamese (austroasiatique) : Huy-Linh Dao
  * Dialectes arabes (sémitique)
-  * Dariji (Maroc) : Dominique Caubet
-  * Arabe tunisien : Rayan Ziane
-  * Arabe égyptien : Mohamed Galal
+   * Darija (Maroc) : Dominique Caubet
+   * Arabe tunisien : Rayan Ziane
+   * Arabe égyptien : Mohamed Galal
  * Corse (roman) : Alice Millour
  * Picard (roman) : Yoann Dupont
  * Breton (celte) : Mélanie Jouitteau
  * Wolof (Niger-Congo) : Olivier Bondéelle, Sylvain Kahane, Bamba Dione
- * Chinois prémoderne (sinitique) : Pierre Magistry
+ * Chinois prémoderne (sinitique) : Pierre Magistry, Qishen Wu
  * Teochew (sinitique) : Ilaine Wang
 
 | Langue   | ISO 639-3 | Wikipedia |
