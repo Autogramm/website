@@ -39,13 +39,13 @@ Le projet Autogramm est constitué de quatre partenaires principaux:
   * Marc Evrard
   * Agata Savary
   * François Yvon
-  * Ziqian Peng (stagiaire M2)
+  * Ziqian Peng (stagiaire M1)
   * Lili Lu (stagiaire M2)
  
 * [LORIA](https://www.loria.fr)
   * Bruno Guillaume (responsable)
   * Guillaume Bonfante
-  * Karen Fort
+  * Karën Fort
   * Guy Perrier
  
 Autres partenaires
