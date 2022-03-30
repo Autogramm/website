@@ -24,7 +24,7 @@ Le projet Autogramm est constitué de quatre partenaires principaux:
  * [Lacito](https://www.lacito.cnrs.fr/)
   * Sylvain Loiseau (responsable)
   * Isabelle Bril
-  * Johanna Cordova (doctorante)
+  * Natalia Cáceres
   * Huy-Linh Dao
   * Agnès Henri
   * Paulette Roulon
