@@ -5,19 +5,28 @@ src: _index.md
 
 Les langues listées sont celles qui sont envisagées dans le projet. cette liste peut évoluer en fonction de l'avancé du projet.
 
- * Tuwari (Papua)
- * Yali (Papua)
- * Salar (Turkic)
- * Amdo Tibetan (Sino-Tibetan)
- * Sungwadia (Austronesian)
- * Ye’kwana (Carib)
- * Zaar (Chadic)
- * Hausa (Chadic)
- * Beja (Cushitic)
- * Gbaya (Ubanguian)
- * Bambara (Manding)
- * Vietnamese (Austrasiatic)
- * Egyptian Arabic (Mohamed Galal)
+ * Tuwari (papoue) : Sylvain Loiseau
+ * Yali (papoue) : Sonja Riesberg
+ * Salar (turque) : Camille Simon
+ * Amdo Tibetan (sino-tibetain) : Camille Simon
+ * Sungwadia (austronésien) : Agnès Henri
+ * Ye’kwana (caribe) : Natalia Cáceres
+ * Zaar (chadique) : Bernard Caron
+ * Hausa (chadique) : Bernard Caron, Berthold Crysmann
+ * Beja (couchitique) : Martine Vanhove
+ * Gbaya (oubanguien) : Paulette Roulon-Doko
+ * Bambara (mandingue) : Valentin Vydrine
+ * Vietnamese (austroasiatique) : Huy-Linh Dao
+ * Dialectes arabes (sémitique)
+  * Dariji (Maroc) : Dominique Caubet
+  * Arabe tunisien : Rayan Ziane
+  * Arabe égyptien : Mohamed Galal
+ * Corse (roman) : Alice Millour
+ * Picard (roman) : Yoann Dupont
+ * Breton (celte) : Mélanie Jouitteau
+ * Wolof (Niger-Congo) : Olivier Bondéelle, Sylvain Kahane, Bamba Dione
+ * Chinois prémoderne (sinitique) : Pierre Magistry
+ * Teochew (sinitique) : Ilaine Wang
 
 | Langue   | ISO 639-3 | Wikipedia |
 |----------|-----------|-----------|
