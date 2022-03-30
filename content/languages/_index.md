@@ -16,7 +16,7 @@ Les langues listées sont celles qui sont envisagées dans le projet. cette list
  * Beja (couchitique) : Martine Vanhove
  * Gbaya (oubanguien) : Paulette Roulon-Doko
  * Bambara (mandingue) : Valentin Vydrine
- * Vietnamese (austroasiatique) : Huy-Linh Dao
+ * Vietnamien (austroasiatique) : Huy-Linh Dao
  * Dialectes arabes (sémitique)
    * Darija (Maroc) : Dominique Caubet
    * Arabe tunisien : Rayan Ziane
