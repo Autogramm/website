@@ -31,6 +31,7 @@ Le projet Autogramm est constitué de quatre partenaires principaux:
   * Camille Simon
   * Salomé Chandora (stagiaire M1)
   * Katharine Jiang (stagiaire M1)
+  * Anissa Forget (administratrice)
  
 * [Lisn](https://www.lisn.upsaclay.fr/)
   * Kim Gerdes (responsable)
