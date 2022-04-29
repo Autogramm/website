@@ -42,6 +42,7 @@ Le projet Autogramm est constitué de quatre partenaires principaux:
   * François Yvon
   * Ziqian Peng (stagiaire M1)
   * Lili Lu (stagiaire M2)
+  * Romain Rybka (administrateur)
  
 * [LORIA](https://www.loria.fr)
   * Bruno Guillaume (responsable)
