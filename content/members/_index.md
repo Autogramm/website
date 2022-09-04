@@ -8,17 +8,17 @@ Le projet Autogramm est constitué de quatre partenaires principaux:
   
 * [MoDyCo](https://modyco.fr/)
   * Sylvain Kahane (responsable)
-  * Aude Da Cruz Lima
   * Guillaume Desagulier
   * Anne Dujour-Lacheret
   * Iris Eshkol-Taravella
   * Loic Grobol
-  * Kirian Guiller (doctorant)
-  * Emmett Strickland (doctorant)
   * Florence Villoing
+  * Aude Da Cruz Lima (ingénieur)
+  * Santiago Herrera (doctorant)
+  * Qishen Wu (doctorant)
+  * Emmett Strickland (doctorant)
   * Julie Halbout (stagiaire M1)
-  * Santiago Herrera (stagiaire M2)
-  * Qishen Wu (stagiaire M2)
+  * Aurélien Said Housseini (stagiaire M1)
   * Ilham Benayad (administratrice)
  
 * [Lacito](https://www.lacito.cnrs.fr/)
@@ -48,6 +48,7 @@ Le projet Autogramm est constitué de quatre partenaires principaux:
   * Bruno Guillaume (responsable)
   * Guillaume Bonfante
   * Karën Fort
+  * Gaël Guibon
   * Guy Perrier
  
 Autres partenaires
@@ -55,11 +56,11 @@ Autres partenaires
 * [Llacan](https://llacan.cnrs.fr/)
   * Bernard Caron (responsable)
   * Dominique Caubet
-  * Christian Chanard
-  * Uyên-To Rabier
   * Paulette Roulon-Doko
   * Martine Vanhove
   * Valentin Vydrine
+  * Christian Chanard (ingénieur)
+  * Uyên-To Rabier (ingénieur)
 
 * [Ertim](https://er-tim.fr/)
   * Pierre Magistry (responsable)
@@ -72,8 +73,7 @@ Autres membres
   * Mélanie Jouitteau (IKER)
   * Olivier Bondéelle
   * Alice Millour (Università Pasquale Paoli, Corte)
-  * Yoan Dupont (ObTIC, Sorbonne U.)
-  * Gaël Guibon (LTCI, Télécom Paris)
+  * Yoan Dupont (Lattice, Paris Cité)
   * Berthold Crysmann (LLF, U. de Paris)
   * Rayan Ziane (Crisco, Caen)
   * Johannes Heinecke (Orange)
@@ -81,5 +81,5 @@ Autres membres
   * Nicolas Mazziotta (U. de Liège)
   * Sophie Prevost (Lattice, Paris)
   * Serge Fleury (Clesthia, Paris 3)
-  * Mohamed Galal (U. de Soha, Egypte)
+  * Mohamed Galal (U. de Sohag, Egypte)
 
