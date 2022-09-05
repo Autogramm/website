@@ -9,6 +9,11 @@ src: _index.md
 
 Autogramm (Induction de grammaires descriptives à partir de corpus annotés) est un projet financé par l'[ANR (Agence Nationale de la Recherche)](https://anr.fr). Il a débuté début 2022 et va durer 4 ans.
 
+{{< news >}}
+le project recrute un ingénieur (12 mois renouvelable) pour participer au développement des outils. Voir l'<a href="https://recrutement.inria.fr/public/classic/fr/offres/2022-05244">annonce</a>.
+{{< /news >}}
+
+
 # Résumé
 
 Le but de ce projet est d'automatiser, dans la mesure du possible, l'extraction de grammaires descriptives et de descriptions grammaticales à partir de corpus annotés, à des fins d'études linguistiques et typologiques. Nous visons des descriptions qui
