@@ -1,6 +1,6 @@
 ---
-title: Outils du projet Autogramm
-src: tools/_index.md
+title: Autogramm project tools
+src: tools/_index.en.md
 ---
 
  * [ArboratorGrew](https://arborator.github.io/)

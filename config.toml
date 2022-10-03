@@ -1,6 +1,6 @@
 baseURL = "https://autogramm.github.io/"
-languageCode = "en-us"
-defaultContentLanguage = "en"
+languageCode = "fr-fr"
+DefaultContentLanguage = "fr"
 title = "Autogramm"
 theme = "cayman-hugo-theme"
 
@@ -75,5 +75,35 @@ pygmentsStyle = "pygments"
     weight = 4
   [[menu.nav]]
     name = "projet GitHub"
+    url = "https://github.com/autogramm"
+    weight = 5
+
+[languages.fr]
+languageName = "Français"
+weight = 1
+
+[languages.en]
+languageName = "English"
+weight = 2
+project_tagline = "Induction of descriptive grammar from annorated corpora"
+
+[[languages.en.menu.nav]]
+    name = "Autogramm"
+    url = "/en/"
+    weight = 1
+[[languages.en.menu.nav]]
+    name = "Members"
+    url = "/en/members/"
+    weight = 2
+[[languages.en.menu.nav]]
+    name = "Languages"
+    url = "/en/languages/"
+    weight = 3
+[[languages.en.menu.nav]]
+    name = "Tools"
+    url = "/en/tools/"
+    weight = 4
+[[languages.en.menu.nav]]
+    name = "GitHub projects"
     url = "https://github.com/autogramm"
     weight = 5

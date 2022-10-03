@@ -1,6 +1,6 @@
 ---
 title: Langues du projet Autogramm
-src: _index.md
+src: languages/_index.md
 ---
 
 Les langues listées sont celles qui sont envisagées dans le projet. cette liste peut évoluer en fonction de l'avancé du projet.
