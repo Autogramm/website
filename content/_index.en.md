@@ -7,7 +7,7 @@ src: _index.en.md
 <img src="/images/logo_autogramm.jpg" alt="drawing" width="400"/>
 {{< /rawhtml >}}
 
-Autogramm (Induction of descriptive grammar from annorated corpora) is a project funded by [ANR (Agence Nationale de la Recherche)](https://anr.fr). It started in January 2022 and last 4 years.
+Autogramm (Induction of descriptive grammar from annotated corpora) is a project funded by [ANR (Agence Nationale de la Recherche)](https://anr.fr). It started in January 2022 and last 4 years.
 
 # Abstract
 
