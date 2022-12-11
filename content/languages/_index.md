@@ -19,7 +19,7 @@ Les langues listées sont celles qui sont envisagées dans le projet. cette list
  * Vietnamien (austroasiatique) : Huy-Linh Dao
  * Dialectes arabes (sémitique)
    * Darija (Maroc) : Dominique Caubet
-   * Arabe tunisien : Rayan Ziane
+   * Arabe tunisien : Aya Gherab, Mustapha Khoudri, Fatma Messaoudi, Rayan Ziane
    * Arabe égyptien : Mohamed Galal
  * Corse (roman) : Alice Millour
  * Picard (roman) : Yoann Dupont
