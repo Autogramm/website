@@ -18,15 +18,16 @@ The languages listed are those envisaged in the project. This list may change as
  * Bambara (Manding): Valentin Vydrine
  * Vietnamien (Austroasiatic): Huy-Linh Dao
  * Arabic dialects (Semitic)
-   * Darija (Maroc): Dominique Caubet
+   * Maroccon Arabic (Darija): Dominique Caubet
    * Tunisian Arabic: Rayan Ziane
    * Egyptian Arabic: Mohamed Galal
  * Corsican (Roman): Alice Millour
  * Picard (Roman): Yoann Dupont
- * Breton (celte): Mélanie Jouitteau
+ * Breton (Celtic): Mélanie Jouitteau
  * Wolof (Niger-Congo): Olivier Bondéelle, Sylvain Kahane, Bamba Dione
  * Premodern Chinese (Sinitic): Pierre Magistry, Qishen Wu
  * Teochew (Sinitic): Ilaine Wang
+ * Haitian (Creole) : Claudel Pierre-Louis
 
 | Langue   | ISO 639-3 | Wikipedia |
 |----------|-----------|-----------|
