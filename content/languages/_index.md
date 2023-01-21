@@ -3,7 +3,7 @@ title: Langues du projet Autogramm
 src: languages/_index.md
 ---
 
-Les langues listées sont celles qui sont envisagées dans le projet. cette liste peut évoluer en fonction de l'avancé du projet.
+Les langues listées sont celles qui sont envisagées dans le projet. Cette liste évolue en fonction de l'avancée du projet.
 
  * Tuwari (papoue) : Sylvain Loiseau
  * Yali (papoue) : Sonja Riesberg
@@ -15,10 +15,10 @@ Les langues listées sont celles qui sont envisagées dans le projet. cette list
  * Hausa (chadique) : Bernard Caron, Berthold Crysmann
  * Beja (couchitique) : Martine Vanhove
  * Gbaya (oubanguien) : Paulette Roulon-Doko
- * Bambara (mandingue) : Valentin Vydrine
+ * Bambara (mandingue) : Valentin Vydrine, Katya Aplonova
  * Vietnamien (austroasiatique) : Huy-Linh Dao
  * Dialectes arabes (sémitique)
-   * Darija (Maroc) : Dominique Caubet
+   * Arabe marocain (darija) : Dominique Caubet
    * Arabe tunisien : Aya Gherab, Mustapha Khoudri, Fatma Messaoudi, Rayan Ziane
    * Arabe égyptien : Mohamed Galal
  * Corse (roman) : Alice Millour
@@ -27,6 +27,7 @@ Les langues listées sont celles qui sont envisagées dans le projet. cette list
  * Wolof (Niger-Congo) : Olivier Bondéelle, Sylvain Kahane, Bamba Dione
  * Chinois prémoderne (sinitique) : Pierre Magistry, Qishen Wu
  * Teochew (sinitique) : Ilaine Wang
+ * Haïtien (créole) : Claudel Pierre-Louis
 
 | Langue   | ISO 639-3 | Wikipedia |
 |----------|-----------|-----------|
