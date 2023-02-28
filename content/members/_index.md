@@ -14,11 +14,16 @@ Le projet Autogramm est constitué de quatre partenaires principaux:
   * Loic Grobol
   * Florence Villoing
   * Aude Da Cruz Lima (ingénieur)
+  * Kirian Guiller (doctorant)
   * Santiago Herrera (doctorant)
   * Qishen Wu (doctorant)
   * Emmett Strickland (doctorant)
-  * Julie Halbout (stagiaire M1)
-  * Aurélien Said Housseini (stagiaire M1)
+  * Siriluck Rattananiyomkul (doctorante)
+  * Julie Halbout (stagiaire M1 2002)
+  * Aurélien Said Housseini (stagiaire M1 2002)
+  * Diego Rossini (stagiaire M1 2003)
+  * Mathilde Charlet (stagiaire M1 2003)
+  * Sandra Jagodzińśka (stagiaire M1 2003)
   * Ilham Benayad (administratrice)
  
 * [Lacito](https://www.lacito.cnrs.fr/)
@@ -29,8 +34,10 @@ Le projet Autogramm est constitué de quatre partenaires principaux:
   * Agnès Henri
   * Paulette Roulon
   * Camille Simon
-  * Salomé Chandora (stagiaire M1)
-  * Katharine Jiang (stagiaire M1)
+  * Salomé Chandora (stagiaire M1 2002)
+  * Katharine Jiang (stagiaire M1 2002)
+  * Agathe Wallet (stagiaire M1 2003)
+  * Yingzi Liu (stagiaire M1 2003)
   * Anissa Forget (administratrice)
  
 * [Lisn](https://www.lisn.upsaclay.fr/)
@@ -40,8 +47,9 @@ Le projet Autogramm est constitué de quatre partenaires principaux:
   * Marc Evrard
   * Agata Savary
   * François Yvon
-  * Ziqian Peng (stagiaire M1)
-  * Lili Lu (stagiaire M2)
+  * Ziqian Peng (stagiaire M1 2002)
+  * Lili Lu (stagiaire M2 2002)
+  * Claudel Pierre-Louis (stagiaire M2 2003)
   * Romain Rybka (administrateur)
  
 * [LORIA](https://www.loria.fr)
@@ -50,6 +58,8 @@ Le projet Autogramm est constitué de quatre partenaires principaux:
   * Karën Fort
   * Gaël Guibon
   * Guy Perrier
+  * Khensa Amani Daoudi (ingénieure)
+  * Julie Halbout (stagiaire M2 2003)
  
 Autres partenaires
 
