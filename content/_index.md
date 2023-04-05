@@ -7,7 +7,7 @@ src: _index.md
 <img src="/images/logo_autogramm.jpg" alt="drawing" width="400"/>
 {{< /rawhtml >}}
 
-Autogramm (Induction de grammaires descriptives à partir de corpus annotés) est un projet financé par l'[ANR (Agence Nationale de la Recherche)](https://anr.fr). Il a débuté début 2022 et va durer 4 ans.
+Autogramm (Induction de grammaires descriptives à partir de corpus annotés) est un projet financé par l'[ANR (Agence Nationale de la Recherche)](https://anr.fr), [Projet-ANR-21-CE38-0017] (https://anr.fr/Projet-ANR-21-CE38-0017). Il a débuté début 2022 et va durer 4 ans.
 
 # Résumé
 
