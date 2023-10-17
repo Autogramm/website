@@ -28,9 +28,3 @@ Les langues listées sont celles qui sont envisagées dans le projet. Cette list
  * Chinois prémoderne (sinitique) : Pierre Magistry, Qishen Wu
  * Teochew (sinitique) : Ilaine Wang
  * Haïtien (créole) : Claudel Pierre-Louis
-
-| Langue   | ISO 639-3 | Wikipedia |
-|----------|-----------|-----------|
-| Tuwari   | `tww`     | [Tuwari (en)](https://en.wikipedia.org/wiki/Tuwari_language) |
-| Yali     | `yli`, `nlk`, `yac`    | [Yali language (en)](https://en.wikipedia.org/wiki/Yali_language) |
-| Ye’kuana | `mch`     | [Maquiritari](https://fr.wikipedia.org/wiki/Maquiritari_(langue)) |
