@@ -1,0 +1,52 @@
+{
+    "Gender agreement":
+    {
+        "file": "./data/agreement_gender.json",
+        "text": "<p>Rules for gender agreement between a <b>governor</b> and <b>dependant</b> nodes having a gender feature. A favorable decision means a forced agreement.</p>"
+    },
+    "Number agreement":
+    {
+        "file": "./data/agreement_number.json",
+        "text": "Rules for number agreement between the <b>governor</b> and <b>dependant</b> nodes having a number feature. A favorable decision means a forced agreement."
+    },
+    "Number agreement verb/aux-obj":
+    {
+        "file": "./data/agreement_number_aux-verb_obj.json",
+        "text": "Rules for number agreement between <b>verb/auxiliary</b> (gov) and <b>object</b> (dep), both having a number feature. A favorable decision means a forced agreement."
+    },
+    "Number agreement verb/aux-subj":
+    {
+        "file": "./data/agreement_number_aux-verb_subj.json",
+        "text": "Rules for number agreement between <b>verb/auxiliary</b> (gov) and <b>subject</b> (dep), both having a number feature. A favorable decision means a forced agreement."
+    },
+    "Person agreement":
+    {
+        "file": "./data/agreement_person.json",
+        "text": "Rules for person agreement between the <b>governor</b> and <b>dependant</b> nodes having a person feature. A favorable decision means a forced agreement."
+    },
+    "Person agreement aux-verb_subj":
+    {
+        "file": "./data/agreement_person_aux-verb_subj.json",
+        "text": "Rules for person agreement between <b>verb/auxiliary</b> (gov) and <b>subject</b> (dep), both having a person feature. A favorable decision means a forced agreement."
+    },
+    "Order adj-noun":
+    {
+        "file": "./data/word_order_adj_noun.json",
+        "text": "Word order rules for a governing <b>noun</b> and dependent <b>adjective</b>. A favorable decision indicates the <b>order adjective-noun</b>."
+    },
+    "Order noun-adj":
+    {
+        "file": "./data/word_order_noun_adj.json",
+        "text": "Word order rules for a governing <b>noun</b> and dependent <b>adjective</b>. A favorable decision indicates the <b>order noun-adjective</b>."
+    },
+    "Order obj-verb/aux":
+    {
+        "file": "./data/word_order_obj_verb-aux.json",
+        "text": "Word order rules for a governing <b>verb/auxiliary</b> and dependent <b>object</b>. A favorable decision indicates the <b>order object-verb/auxiliary</b>."
+    },
+    "Order verb/aux-subj":
+    {
+        "file": "./data/word_order_verb_aux_subj.json",
+        "text": "Word order rules for a governing <b>verb/auxiliary</b> and dependent <b>subject</b>. A favorable decision indicates the <b>order verb/auxiliary-subject</b>."
+    }
+}
