@@ -19,8 +19,8 @@ Langues susceptibles d'être livrées pour UD 2.16 (5/2025)
  * Tuwari (papoue) : Sylvain Loiseau
  * Tundra nenets (ouralique): Nikolett Mus
  * Ye’kwana (caribe) : Natalia Cáceres
- * Arabe marocain (darija) : Dominique Caubet
- * Arabe égyptien : Mohamed Galal
+ * Arabe marocain (darija, sémitique) : Dominique Caubet
+ * Arabe égyptien (sémitique) : Mohamed Galal
 
 Langues en attente de traitement
  * Yali (papoue) : Sonja Riesberg
@@ -36,8 +36,9 @@ Collaborations avec d'autres collègues
  * Chinois prémoderne (sinitique) : Pierre Magistry, Qishen Wu
  * Teochew (sinitique) : Ilaine Wang
  * Taigi (taïwannais, sinitique) : Pierre Magistry
- * Arabe tunisien : Aya Gherab, Mustapha Khoudri, Fatma Messaoudi, Rayan Ziane
+ * Arabe tunisien (sémitique) : Aya Gherab, Mustapha Khoudri, Fatma Messaoudi, Rayan Ziane
  * Quechua ancashino (quechua)  : Johanna Cordova
+ * Nénètse de la toundra (ouralique) : Nikolett Mus
 
 Projets Masakhane (collaboration entre Autogramm et le collectif africain Masakhane)
  * Igbo (Niger-Congo, Nigéria) : Chinedu Uchechukwu
