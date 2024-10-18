@@ -19,8 +19,8 @@ Languages likely to be delivered for UD 2.16 (5/2025)
  * Tuwari (Papuan): Sylvain Loiseau
  * Tundra Nenets (Uralic): Nikolett Mus
  * Ye’kwana (Carob): Natalia Cáceres
- * Moroccan Arabic (Darija): Dominique Caubet
- * Egyptian Arabic: Mohamed Galal
+ * Moroccan Arabic (Darija, Semitic): Dominique Caubet
+ * Egyptian Arabic (Semitic): Mohamed Galal
 
 Languages awaiting processing
  * Yali (Papuan): Sonja Riesberg
@@ -36,8 +36,9 @@ Collaborations with other colleagues
  * Premodern Chinese (Sinitic): Pierre Magistry, Qishen Wu
  * Teochew (Sinitic): Ilaine Wang
  * Taigi (Taiwanese Hokkien, Sinitic): Pierre Magistry
- * Tunisian Arabic: Aya Gherab, Mustapha Khoudri, Fatma Messaoudi, Rayan Ziane
+ * Tunisian Arabic (Semitic): Aya Gherab, Mustapha Khoudri, Fatma Messaoudi, Rayan Ziane
  * Quechua ancashino (Quechua) : Johanna Cordova
+ * Tundra Nenets (Uralic): Nikolett Mus
 
 Project Masakhane (collaboration between Autogramm and the African collecive Masakhane)
  * Igbo (Niger-Congo, Nigeria): Chinedu Uchechukwu
