@@ -52,5 +52,5 @@ Projets Masakhane (collaboration entre Autogramm et le collectif africain Masakh
  * Naija
 
 Treebanks avec prosodie
- * Naija-prosody (pidgincréole de l'anglais, Nigéria)
- * Rhapsodie-prosody (français)
+ * Naija-prosody (pidgincréole de l'anglais, Nigéria) : Emmett Strickland
+ * Rhapsodie-prosody (français) : Maria Paz Botero Garcia
