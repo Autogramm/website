@@ -34,8 +34,10 @@ Collaborations with other colleagues
  * Picard (Romance): Yoann Dupont
  * Breton (Celtic): Mélanie Jouitteau, Loïc Grobol
  * Premodern Chinese (Sinitic): Pierre Magistry, Qishen Wu
- * Teochew (Sinitic): Ilaine Wang, Pierre Magistry
+ * Teochew (Sinitic): Ilaine Wang
+ * Taigi (Taiwanese Hokkien, Sinitic): Pierre Magistry
  * Tunisian Arabic: Aya Gherab, Mustapha Khoudri, Fatma Messaoudi, Rayan Ziane
+ * Quechua ancashino (Quechua) : Johanna Cordova
 
 Project Masakhane (collaboration between Autogramm and the African collecive Masakhane)
  * Igbo (Niger-Congo, Nigeria): Chinedu Uchechukwu
@@ -48,3 +50,7 @@ Project Masakhane (collaboration between Autogramm and the African collecive Mas
  * Yoruba
  * Hausa
  * Naija
+
+Treebanks with prosody
+ * Naija-prosody (Pidgincreole of English, Nigeria): Emmett Strickland
+ * Rhapsodie-prosody (French): Maria Paz Botero Garcia
