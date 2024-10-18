@@ -34,8 +34,10 @@ Collaborations avec d'autres collègues
  * Picard (roman) : Yoann Dupont
  * Breton (celte) : Mélanie Jouitteau, Loïc Grobol
  * Chinois prémoderne (sinitique) : Pierre Magistry, Qishen Wu
- * Teochew (sinitique) : Ilaine Wang, Pierre Magistry
+ * Teochew (sinitique) : Ilaine Wang
+ * Taigi (taïwannais, sinitique) : Pierre Magistry
  * Arabe tunisien : Aya Gherab, Mustapha Khoudri, Fatma Messaoudi, Rayan Ziane
+ * Quechua ancashino (quechua)  : Johanna Cordova
 
 Projets Masakhane (collaboration entre Autogramm et le collectif africain Masakhane)
  * Igbo (Niger-Congo, Nigéria) : Chinedu Uchechukwu
@@ -48,3 +50,7 @@ Projets Masakhane (collaboration entre Autogramm et le collectif africain Masakh
  * Yoruba
  * Hausa
  * Naija
+
+Treebanks avec prosodie
+ * Naija-prosody (pidgincréole de l'anglais, Nigéria)
+ * Rhapsodie-prosody (français)
