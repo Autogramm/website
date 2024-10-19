@@ -39,12 +39,13 @@ Collaborations with other colleagues
  * Tunisian Arabic (Semitic): Aya Gherab, Mustapha Khoudri, Fatma Messaoudi, Rayan Ziane
  * Quechua ancashino (Quechua) : Johanna Cordova
  * Tundra Nenets (Uralic): Nikolett Mus
+ * Persian (Indo-Iranian) : Behnoosh Namdarzadeh
 
 Project Masakhane (collaboration between Autogramm and the African collecive Masakhane)
  * Igbo (Niger-Congo, Nigeria): Chinedu Uchechukwu
- * IsiZulu
+ * IsiZulu (Bantu, South Africa): Rooweither Mabuya, Zanele Thembani
  * Kiswahili
- * IsiKhosa
+ * IsiKhosa (Bantu, South Africa): Happy Buzaaba
  * Kinyarwanda
  * Runyankore
  * Efik
