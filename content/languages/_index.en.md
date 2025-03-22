@@ -41,7 +41,7 @@ Collaborations with other colleagues
  * Tundra Nenets (Uralic): Nikolett Mus
  * Persian (Indo-Iranian) : Behnoosh Namdarzadeh
 
-Project Masakhane (collaboration between Autogramm and the African collecive Masakhane)
+Project Masakhane (collaboration between Autogramm and the African collective Masakhane)
  * Igbo (Niger-Congo, Nigeria): Chinedu Uchechukwu
  * IsiZulu (Bantu, South Africa): Rooweither Mabuya, Zanele Thembani
  * Kiswahili
