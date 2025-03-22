@@ -11,7 +11,7 @@ src: tools/_index.md
 | [Typometrics](https://typometrics.elizia.net) | distributional scatter diagram based on empirical measures on UD or SUD annotated corpora | [doc](https://typometrics.elizia.net/#/presentation) {{< rawhtml >}} <a href="https://github.com/typometrics/typometrics/issues"><img src="/images/Octocat.png" alt="drawing" width="40"/></a> {{< /rawhtml >}} | [Kim](mailto:kim@gerdes.fr) |
 | [Grammar rules extraction](http://139.59.147.134:8501/) | Corpus-based grammatical rule extraction | [doc](https://github.com/santiagohy/grammar-rules-extraction) {{< rawhtml >}} <a href="https://github.com/santiagohy/grammar-rules-extraction/issues"><img src="/images/Octocat.png" alt="drawing" width="40"/></a> {{< /rawhtml >}} | [Santiago](mailto:sfedeherrera@gmail.com) |
 
-## Autres liens et outils 
+## Other links and tools
 
  - [SUD Website](https://surfacesyntacticud.github.io/) and [SUD guidelines](https://surfacesyntacticud.github.io/guidelines/u/)
  - [Grew](https://grew.fr): Graph Rewriting for corpus transformation
