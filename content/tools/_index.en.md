@@ -9,7 +9,7 @@ src: tools/_index.en.md
 | [Grew-match](http://universal.grew.fr) | Request on Treebanks | [doc](https://grew.fr/grew_match/help/) {{< rawhtml >}} <a href="https://github.com/grew-nlp/grew/issues"><img src="/images/Octocat.png" alt="drawing" width="40"/></a> {{< /rawhtml >}} | [Bruno](mailto:bruno.guillaume@inria.fr) |
 | [Elan2Conll](https://github.com/Autogramm/tools/tree/main/Elan2Conllu/Elan2Conll) | Conversion from ELAN to CONLL | [doc](https://github.com/Autogramm/tools/tree/main/Elan2Conllu/Elan2Conll) | [Christian](mailto:christian.chanard@cnrs.fr), [Uyên-To](mailto:thiuyento.rabier@cnrs.fr) |
 | [Typometrics](https://typometrics.elizia.net) | distributional scatter diagram based on empirical measures on UD or SUD annotated corpora | [doc](https://typometrics.elizia.net/#/presentation) {{< rawhtml >}} <a href="https://github.com/typometrics/typometrics/issues"><img src="/images/Octocat.png" alt="drawing" width="40"/></a> {{< /rawhtml >}} | [Kim](mailto:kim@gerdes.fr) |
-| [Grex](https://github.com/Autogramm/grex) | Automatic Grammar Extraction from treebanks | [doc](https://grex.grew.fr)  {{< rawhtml >}} <a href="https://github.com/Autogramm/grex"><img src="/images/Octocat.png" alt="drawing" width="40"/></a> {{< /rawhtml >}} | [Santiago](mailto:s.herrera@parisnanterre.fr). [Caio](mailto:caio.corro@irisa.fr) |
+| [Grex](https://github.com/Autogramm/grex) | Automatic Grammar Extraction from treebanks | [doc](https://grex.grew.fr)  {{< rawhtml >}} <a href="https://github.com/Autogramm/grex"><img src="/images/Octocat.png" alt="drawing" width="40"/></a> {{< /rawhtml >}} | [Santiago](mailto:s.herrera@parisnanterre.fr), [Caio](mailto:caio.corro@irisa.fr) |
 
 ## Other links and tools
 
